@@ -1,0 +1,1 @@
+// displays a countdown from 10 to 1 on the screen and then displays "Happy Independence Day"
